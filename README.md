@@ -1,6 +1,6 @@
 # Two Site Company Network
 
-A small company network built in **Cisco Packet Tracer**: a head office and a branch, each with two departments on their own VLANs, connected with OSPF.
+A small company network built in Cisco Packet Tracer, a head office and a branch, each with two departments on their own VLANs, connected with OSPF.
 
 ## What it uses
 
