@@ -2,8 +2,6 @@
 
 A small company network built in **Cisco Packet Tracer**: a head office and a branch, each with two departments on their own VLANs, connected with OSPF.
 
-![Network topology](images/topology.png)
-
 ## What it uses
 
 - **VLANs** to keep each department on its own network
